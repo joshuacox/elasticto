@@ -1,0 +1,2 @@
+# elasticto
+Elasticsearch in octohost
