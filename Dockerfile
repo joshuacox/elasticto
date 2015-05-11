@@ -1,4 +1,4 @@
-FROM  dockerfile/elasticsearch
+FROM  elasticsearch:latest
 MAINTAINER Josh Cox <josh 'at' webhosting coop>
 
 # ADD_NAME elasticto
